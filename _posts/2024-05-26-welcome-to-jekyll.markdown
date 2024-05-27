@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Serhii Hrachov CV!"
 date:   2024-05-26 20:23:20 +0000
 categories: jekyll update
 ---
